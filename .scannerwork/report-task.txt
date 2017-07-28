@@ -1,0 +1,6 @@
+projectKey=onlinelibraryjavajsp
+serverUrl=http://jenkinss:9000/sonar
+serverVersion=6.4.0.25310
+dashboardUrl=http://jenkinss:9000/sonar/dashboard/index/onlinelibraryjavajsp
+ceTaskId=AV2K_FGw84EclV_PrxDX
+ceTaskUrl=http://jenkinss:9000/sonar/api/ce/task?id=AV2K_FGw84EclV_PrxDX
